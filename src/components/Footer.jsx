@@ -4,7 +4,7 @@ export const Footer=()=>{
     return(
         <div className="footer">
             <div className="footer-content">
-                <img src="/src/img/logo_principal.png" alt=""/>
+                <img src="https://images.vexels.com/media/users/3/136295/isolated/preview/9293787a09b95e84c856e6474cff8ce0-marca-de-licorer-a.png" alt=""/>
                 <div className="page-options">
                     <h3>Opciones de Página</h3>
                     <ul>
